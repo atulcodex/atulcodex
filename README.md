@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="width:100%;height:0;padding-bottom:59%;position:relative;"><iframe src="https://giphy.com/embed/1ylebTFyDHaa46IDgO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/BoxOfficetr-star-wars-starwars-movie-gif-1ylebTFyDHaa46IDgO">via GIPHY</a></p>
+![](https://media.giphy.com/media/1ylebTFyDHaa46IDgO/giphy.gif)
 
 <!--
 **atulcodex/atulcodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
