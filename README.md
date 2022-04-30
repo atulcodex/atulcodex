@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Atulcodex Wars](https://media.giphy.com/media/9E7kUhnT9eDok/giphy.gif)
+![Atulcodex Wars](https://media.giphy.com/media/1ylebTFyDHaa46IDgO/giphy.gif)
 
 <!--
 **atulcodex/atulcodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
